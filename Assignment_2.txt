@@ -1,0 +1,77 @@
+1. The two values are True and False....we can write it as bool()
+
+2. The three boolean operators : AND , OR , NOT
+
+
+3. AND              OR              NOT
+
+   0   0    0        0   0   0        0    1
+   0   1    0        0   1   1        1    0
+   1   0    0        1   0   1     
+   1   1    1        1   1   1
+
+
+4. 0
+   0
+   1 
+   0
+   0
+   1
+
+
+
+5.  < , > , <= , >= , == , !=
+
+6.  Equal to (==) - To check two values and return a value
+    Assignment operator (=) - To assign a value to a variable
+
+
+
+7.spam = 0
+ if spam == 10:
+	print('eggs')
+                   .....1st block
+ if spam > 5:
+	print('bacon')
+                   ......2nd block
+ else:
+	print('ham')
+	print('spam')
+	print('spam')
+                   .......3rd block
+
+
+
+8.spam = 1
+ if spam == 1:
+	print('hello')
+ if spam == 2:
+	print('howdy')
+ else:
+	print('greetings!')
+
+
+
+9. Cntrl + C
+
+
+10. Break statement breaks the loop and exits out of the loop , while continue statement just continue the next iteration of the loop
+
+
+11. range(10) , range(0, 10), range(0, 10, 1) - all denote the same meaning and returns the same value
+
+
+12. for i in range(10):
+	print(i+1)
+
+    i=1 
+    while i<=10 :
+	print(i)
+        i = i+1
+
+
+
+13. spam.bacon()
+
+    
+ 

@@ -1,0 +1,35 @@
+1.  *      - Expression
+   'hello' - value
+    -87.8  - value
+     -     - Expression
+     /     - Expression  
+     +     - Expression
+     6     - value
+
+
+2. A variable is a location/address through which we reserve a space in memory where we can store data while 'string' is a datatype
+
+
+3. int() - for integers/ numbers
+   string()- for characters
+   float()- for decimals
+
+4. Expressions are made up of operators and operands. They together execute a set of command to provide a value
+
+5. Both Expression and statements execute the command but expression return a value, while a statement dont
+
+6. 22
+
+7. 'spamspamspam'
+   'spamspamspam'
+
+8. A variable name could not start with a number
+
+
+9. We can use int() , float() , and str() respectively
+
+
+10.  The reason for error is that "concatenation operation" cannot be done for values of different datatypes.
+      This can be entered as following :
+         'I have eaten' + '99' + 'burritos'.
+   
