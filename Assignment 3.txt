@@ -1,0 +1,33 @@
+1. The main advantage of functions is "Reusability of code". Functions reduce the complexity and will be helpful at places  
+when a task is to be performed quite oftenly.
+
+2. A function would run when it is called.
+
+3. A "def" statement creates a function 
+	Syntax :    def fn_name(arguments):
+			body
+			return statement
+
+4. A function  is a set of code that represents a task whereas a function call is a statement that calls for the function code 
+and returns the value to the place where it is called.
+
+5. There is one global scope in python. Local scopes are within inside the function blocks.
+
+6. local scope is destroyed after a return statement
+
+7. Return value is the value which is returned where a particular function is called. Expression can perform a task but cannot return 
+a value
+
+8. If the function has no return statement,  it returns "None"
+
+9. By using a "Global" keyword.
+
+10. The datatype of NONE is "Nonetype"
+
+11. It will import the module areallyourpetsnamederic if there exists any.
+
+12. spam.bacon()
+
+13. By enclosing the code into TRY and EXCEPT blocks.
+
+14. A TRY block allows you to excute a code and if there any error is encountered , the EXCEPT block is executed.
